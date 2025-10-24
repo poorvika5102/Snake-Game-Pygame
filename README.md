@@ -14,3 +14,10 @@ A Python Snake Game using Pygame with:
 
 ```bash
 pip install pygame --user
+
+
+You can copy this **directly into your `README.md`**.  
+
+---
+
+If you want, I can also **write a `.gitignore` and folder instructions in one block** so your GitHub repo is fully ready. Do you want me to do that?
